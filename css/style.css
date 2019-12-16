@@ -313,7 +313,7 @@ a.btn.work.active {
 .banner-info h3 {
     position: relative;
     color: rgba(0, 0, 0, .3);
-    font-size: 4em;
+    font-size: 2.6em;
     font-weight: 700;
 }
 
@@ -321,10 +321,10 @@ a.btn.work.active {
     content: attr(data-text);
     position: absolute;
     overflow: hidden;
-    max-width: 10em;
+    max-width: 15em;
     white-space: nowrap;
     color: #fff;
-    animation: loading 8s linear;
+    animation: loading 7s linear;
 }
 
 @keyframes loading {
