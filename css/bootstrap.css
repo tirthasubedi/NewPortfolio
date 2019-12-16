@@ -5131,7 +5131,7 @@ tbody.collapse.show {
   color: #fff;
   text-align: center;
   background-color: #007bff;
-  transition: width 0.6s ease;
+  transition: width 0.4s ease;
 }
 
 .progress-bar-striped {
